@@ -1,0 +1,9 @@
+.forms {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.formButton {
+    width: fit-content;
+}
